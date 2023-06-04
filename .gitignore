@@ -45,9 +45,6 @@ build/Release
 dist
 build
 
-# config
-config/env.json
-
 # IDE specific
 .idea/
 .DS_Store
