@@ -1,0 +1,9 @@
+Instructions:
+1. Make sure to have MongoDB installed on your PC.
+2. Fork the project or download it.
+3. On the terminal: npm i
+4. Once finished, on terminal: npm run dev
+5. Wait for MongoDB and Snowflake to connect.
+6. You can use the Swagger directly:
+http://localhost:8081/api-docs/
+7. Let the show begin and happy testing! :)
